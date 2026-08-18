@@ -1,0 +1,36 @@
+[submodule "apps/meetcore"]
+	path = apps/meetcore
+	url = https://github.com/gaiagent0/meetcore
+[submodule "apps/hu-ai-chat"]
+	path = apps/hu-ai-chat
+	url = https://github.com/gaiagent0/hu-ai-chat
+[submodule "apps/ai-core"]
+	path = apps/ai-core
+	url = https://github.com/gaiagent0/ai-core
+[submodule "apps/hermes-foundry-npu"]
+	path = apps/hermes-foundry-npu
+	url = https://github.com/gaiagent0/hermes-foundry-npu
+[submodule "apps/llama-mtp-snapdragon"]
+	path = apps/llama-mtp-snapdragon
+	url = https://github.com/gaiagent0/llama-mtp-snapdragon
+[submodule "apps/snapdragon-ai-stack"]
+	path = apps/snapdragon-ai-stack
+	url = https://github.com/gaiagent0/snapdragon-ai-stack
+[submodule "apps/ai-landing"]
+	path = apps/ai-landing
+	url = https://github.com/gaiagent0/ai-landing
+[submodule "private/hu-voice-assistant"]
+	path = private/hu-voice-assistant
+	url = https://github.com/gaiagent0/hu-voice-assistant
+[submodule "private/meetily-snapdragon"]
+	path = private/meetily-snapdragon
+	url = https://github.com/gaiagent0/meetily-snapdragon
+[submodule "private/control-center"]
+	path = private/control-center
+	url = https://github.com/gaiagent0/control-center
+[submodule "private/vivo2-ai-stack-2026"]
+	path = private/vivo2-ai-stack-2026
+	url = https://github.com/gaiagent0/vivo2-ai-stack-2026
+[submodule "private/snapdragon_AI"]
+	path = private/snapdragon_AI
+	url = https://github.com/gaiagent0/snapdragon_AI
